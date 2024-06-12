@@ -1,0 +1,39 @@
+.kinship-card {
+    margin: 20px;
+    display: inline-block;
+    height: 500px;
+    width: 200px;
+    background-color: #74472A;
+    font-family: "Protest Guerrilla", sans-serif;
+    color: white;
+}
+
+.image-container {
+    position: relative;
+    top: 10px;
+    left: 10px;
+    height: 400px;
+    width: 180px;
+    object-fit: cover;
+    overflow: hidden;
+    background-color: rgb(218, 218, 218);
+}
+
+.kinship-img {
+    max-width: 200px;
+}
+
+.name-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120px;
+    width: 200px;
+}
+
+.kinship-name {
+    font-family: "Protest Guerrilla", sans-serif;
+    color: white;
+    font-size: 32px;
+    letter-spacing: .1rem;
+}
