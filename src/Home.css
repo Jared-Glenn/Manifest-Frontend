@@ -1,0 +1,35 @@
+.home-div {
+    display: inline-block;
+    justify-content: center;
+    align-content: center;
+}
+
+
+.home-logo {
+    max-width: 800px;
+    justify-content: center;
+    align-content: center;
+}
+
+.home-welcome {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+
+.home-text {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    max-width: 800px;
+}
+
+.kickstarter-banner {
+    max-width: 800px;
+    justify-content: center;
+    align-content: center;
+}

@@ -9,7 +9,7 @@ span {
     left: 0;
     right: 0;
     padding: 10px 20px;
-    background-color: white;
+    background-color: #30434F;
     height: 3.5vh;
     width: 100%;
     display: flex;
@@ -33,17 +33,23 @@ span {
     margin: 0px 30px;
     padding: 10px 20px;
     font-size: 1.5rem;
-    color: rgb(2, 73, 105);
+    color: white;
     text-decoration: none;
     border-radius: 10px;
     min-width: 100px;
+    font-family: "Protest Guerrilla", sans-serif;
 }
 
 .navbar-link:hover {
-    background-color: rgb(2, 73, 105);
+    background-color: #74472A;
     color: white;
 }
 
 .navbar-button {
     margin: 0 10px;
+}
+
+.navbar-logo {
+    margin-top: 10px;
+    max-width: 250px;
 }
